@@ -1,0 +1,1 @@
+# terraform_scripts_for_creating_multiple_buckets
